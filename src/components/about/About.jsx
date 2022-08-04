@@ -8,7 +8,6 @@ const About = () => {
   return (
     <div className='a'>
          <div className="a-left">
-            <div className="a-card bg"></div>
             <div className="a-card">
                 <img src="https://images.pexels.com/photos/5952738/pexels-photo-5952738.jpeg?auto=compress&cs=tinysrgb&w=600"
                  alt="" className='a-img' />

@@ -1,7 +1,8 @@
 .c{
     height: 100vh;
     position: relative;
-}
+    margin-bottom: 0px;
+} 
 
 .c-bg{
     width: 20px;
