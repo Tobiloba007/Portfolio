@@ -87,8 +87,11 @@ button{
 
 @media screen and (max-width: 480px){
     .c{
-        height: 150vh;
+        height: 100vh;
         position: relative;
+    }
+    .c-bg{
+        height: 140vh;
     }
     
     .c-wrapper{

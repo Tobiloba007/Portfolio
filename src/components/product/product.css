@@ -54,8 +54,8 @@
 @media screen and (max-width: 480px){
     .p-wrapper{
         height: 100%; 
-        margin-top: 50%;
-        margin-bottom: 20px;
+        margin-top: 80px;
+        margin-bottom: 30px;
     }
     .p-projects{
         display: flex;
