@@ -1,5 +1,5 @@
 .c{
-    height: 110vh;
+    height: 100vh;
     position: relative;
 }
 
@@ -68,6 +68,7 @@ textarea{
 button{
     border: none;
     padding: 15px;
+    margin-top: 10px;
     background-color: #59b256;
     cursor: pointer;
     color: white;
@@ -76,6 +77,12 @@ button{
     width: 20vh;
     border-radius: 10px;
 }
+.message{
+    margin: 0px 20px;
+    font-weight: bolder;
+}
+
+
 
 
 @media screen and (max-width: 480px){
@@ -111,5 +118,10 @@ button{
     }
     button{
         margin-top: 5px;
+    }
+    .message{
+        margin-top: 20px;
+        margin-left: 20px;
+        font-weight: bolder;
     }
 }

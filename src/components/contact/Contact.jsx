@@ -55,7 +55,7 @@ const darkMode = theme.state.darkMode;
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder='Email' name='user_email' />
             <textarea style={{backgroundColor: darkMode && "#333"}} rows="5" placeholder='Message' name='message' />
             <button>Submit</button>
-            {done && "Thank you for reaching out...."}
+            {done && <span className='message'>Thanks for Reaching out...</span> }
           </form>
         </div>
        </div>
