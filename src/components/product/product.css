@@ -56,6 +56,8 @@
         height: 100%; 
         margin-top: 80px;
         margin-bottom: 30px;
+        margin-right: 0px;
+        margin-left: 0px;
     }
     .p-projects{
         display: flex;

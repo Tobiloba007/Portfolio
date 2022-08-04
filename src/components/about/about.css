@@ -34,11 +34,6 @@
     height: 100%;
     object-fit: cover;
 }
-.a-award-img{
-    width: 120px;
-    height: 120px;
-    border-radius: 20px;
-}
 .a-title{
     margin-bottom: 20px;
 }
@@ -72,7 +67,7 @@ button:hover{
     .a{
         flex-direction: column;
         text-align: center;
-        margin-top: 50px;
+        margin-top: 50px 0px;
     }
 
     .a-left{

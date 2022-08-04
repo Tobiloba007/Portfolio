@@ -1,6 +1,7 @@
 .i{
     display:flex;
     height: 100vh;
+    overflow-x: hidden;
 }
 .i-icons{
     display: flex;
@@ -85,6 +86,8 @@
 @media screen and (max-width: 480px){
     .i{
         flex-direction: column;
+        overflow-x: hidden;
+        margin-right: 0;
     }
     .i-left-wrapper{
         padding: 10px;
@@ -109,8 +112,7 @@
     }
     .i-icon-item{
         margin: 0px 15px;
-    }
-    
+    }    
 
 
 }

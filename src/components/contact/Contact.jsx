@@ -25,7 +25,7 @@ const darkMode = theme.state.darkMode;
   }
   return (
     <div className='c'>
-       <div className="c-bg"></div>
+       <div className="c-bg"> </div>
        <div className="c-wrapper">
         <div className="c-left">
             <h1 className='c-title'>Let's discuss your project</h1>

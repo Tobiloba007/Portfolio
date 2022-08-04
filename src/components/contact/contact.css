@@ -89,12 +89,15 @@ button{
     .c{
         height: 100vh;
         position: relative;
+        overflow-x: hidden;
+        margin: 0px;
     }
     .c-bg{
         height: 140vh;
     }
     
     .c-wrapper{
+        display: flex;
         flex-direction: column;
         padding: 0px 50px;
     }
