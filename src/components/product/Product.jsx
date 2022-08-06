@@ -20,7 +20,7 @@ const Product = () => {
            <div className="p-circle"></div>
            <div className="p-circle"></div>
          </div>
-         <a href="https://luxury-cajeta-a04c90.netlify.app" target="_blank" rel="noreferrer">
+         <a href="https://e-commerce-tobiloba007.vercel.app/" target="_blank" rel="noreferrer">
          <img src={Ecommerce} alt="" className="p-img" />
          </a>
          </div>
